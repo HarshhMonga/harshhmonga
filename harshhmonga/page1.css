@@ -1,0 +1,23 @@
+ol li{
+  font-size: 28px;
+
+}
+.jumbotron{
+  font-weight: bolder;
+}
+
+.bg-1{
+  background-color: #80ffe5;
+  color: white;
+  opacity: 50%;
+}
+.bg-2{
+  background-color: #00000;
+}
+body{
+  background-image:url("84248.png");
+}
+#as{
+  background-color: black;
+  color: white;
+}
