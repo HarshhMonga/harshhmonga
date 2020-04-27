@@ -1,0 +1,14 @@
+body{
+  background-image:url("gogeta.jpg");
+  background-size:1920px 1080px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+.bg-2{
+  background-color: black;
+  color: white;
+  opacity: 80%;
+  font-size: 30px;
+
+}
